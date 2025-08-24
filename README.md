@@ -9,3 +9,4 @@ The game starts when the user presses the user button. A light appears on the RG
 
 ## Future additions
 - Might make it time reaction using Systick. I don't have a good way to display reaction times currently
+- PWM for to make the RGB led look more like the regular LEDs
